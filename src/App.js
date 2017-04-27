@@ -20,8 +20,8 @@ class App extends Component {
           if (h <24){
               end = moment(e.end, 'HH:mm')
           } else {
-              end = moment((end-24) + ':' + hm[1], 'HH:mm');
-              end.add('1','d');
+              end = moment('0' + (h-24) + ':' + hm[1], 'HH:mm');
+              end.add(1,'d');
           }
           storeBoard.push(
               <StoreBoard

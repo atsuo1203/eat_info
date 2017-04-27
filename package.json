@@ -2,6 +2,7 @@
   "name": "eat_info",
   "version": "0.1.0",
   "private": true,
+  "homepage": "atsuo1203.github.io/eat_info",
   "dependencies": {
     "moment": "^2.18.1",
     "react": "^15.5.4",

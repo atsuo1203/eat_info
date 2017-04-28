@@ -6,7 +6,12 @@ import StoreBoard from './StoreBoard';
 const data = {
     stores: [
         { name: "松屋" ,start: "0:00" ,end: "24:00"},
-        { name: "武蔵家" ,start: "9:00" ,end: "21:00"}
+        { name: "武蔵家" ,start: "11:00" ,end: "25:00"},
+        { name: "すた丼" ,start: "11:00" ,end: "27:00"},
+        { name: "マルイ(フードコート)" ,start: "10:30" ,end: "20:30"},
+        { name: "マルイ(飲食店)" ,start: "11:00" ,end: "23:00"},
+        { name: "ルミネ(フードコート)" ,start: "10:00" ,end: "20:30"},
+        { name: "ルミネ(飲食店)" ,start: "10:00" ,end: "22:00"},
     ]
 };
 

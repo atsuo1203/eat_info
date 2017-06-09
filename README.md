@@ -11,3 +11,5 @@ create-react-app 1.3.0
 登録した店の情報を管理するアプリ
 
 現在は北千住のみにしているが、今後増やして行きたい
+
+![eat](https://github.com/atsuo1203/eat_info/wiki/eat.png)
